@@ -1,1 +1,1 @@
-# js.-picanha
+# js-picanha
